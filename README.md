@@ -1,11 +1,6 @@
 # Curriculum Vitae Online
 
-Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
-
-O projeto tem como objetivo montar nossa primeira página web que será a replica de um CV Online, utilizando conceitos de html e Github Pages. Ao  fim teremos nosso currículo pronto e disponível de forma estática.
-
-Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
-
+[leandromelolm.github.io/cv](https://leandromelolm.github.io/cv/)
 
 **Fork do projeto:** 
 
